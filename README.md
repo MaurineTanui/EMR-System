@@ -20,17 +20,12 @@ Skills demonstrated: Data cleaning, EDA, visualization, reporting, Python, panda
 - Runs exploratory data analysis to identify trends (e.g. admission patterns, diagnosis frequency, length of stay — *adjust to what you actually analyzed*)
 
 
+
+
 ## Tech stack
 Python, pandas, [requests / API client — confirm], [visualization library — confirm]
 
-## How to run
 
-```bash
-git clone https://github.com/MaurineTanui/EMR-System.git
-cd EMR-System
-pip install -r requirements.txt
-python main.py   # or the correct entry point
-```
 
 
 
